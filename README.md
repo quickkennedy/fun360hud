@@ -1,2 +1,8 @@
 # funhud
  
+MADE FOR THE TF2 BETA
+
+CREDITS TO:
+1. greiver and hypnotize - stolen colors, textures, etc. general design choices have been taken from them.
+2. papa quill - taught me
+3. the huds.tf, xbox 360 source modding and tf2 xbox 360 discords - additional help
