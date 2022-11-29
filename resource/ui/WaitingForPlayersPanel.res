@@ -4,17 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersPanelBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"292"
-		"tall"			"64"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/death_panel_blue_bg"
-		"scaleImage"		"1"	
-		"teambg_2"		"../hud/death_panel_red_bg"
-		"teambg_3"		"../hud/death_panel_blue_bg"
+		"xpos"			"99999"
 	}
 
 	"WaitingForPlayersLabel"
