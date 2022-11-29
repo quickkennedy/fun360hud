@@ -23,7 +23,7 @@ Scheme
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
 		
-		"White"				"235 235 235 255"
+		"White"				"225 220 220 255"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"
@@ -66,9 +66,9 @@ Scheme
 		"HudTimerProgressInActive"	"52 48 45 255"
 		"HudTimerProgressWarning"	"240 30 30 255"
 		
-		"TanDark"				"117 107 94 255"
-		"TanLight"				"235 226 202 255"
-		"TanDarker"				"46 43 42 255"
+		"TanDark"				"112 107 107 255"
+		"TanLight"				"225 220 220 255"
+		"TanDarker"				"48 43 43 255"
 		
 		// Building HUD Specific
 		"LowHealthRed"		"255 0 0 255"
