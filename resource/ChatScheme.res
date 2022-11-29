@@ -16,7 +16,7 @@ Scheme
 	Colors
 	{
 		// base colors
-		"White"				"255 255 255 255"
+		"White"				"225 220 220 255"
 		"OffWhite"			"216 216 216 255"
 		"DullWhite"			"142 142 142 255"
 		"Orange"			"255 155 0 255"
@@ -198,7 +198,7 @@ Scheme
 		NewGame.SelectionColor		"0 0 0 255"	[$X360]
 		NewGame.DisabledColor		"128 128 128 196"
 
-		TFColors.ChatTextYellow		"251 235 202 255"
+		TFColors.ChatTextYellow		"225 220 220 255"
 		TFColors.ChatTextTeamBlue	"153 204 255 255"
 		TFColors.ChatTextTeamRed	"255 63 53 255"
 	}
