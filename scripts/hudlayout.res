@@ -1,5 +1,39 @@
 "Resource/HudLayout.res"
 {
+	cross
+	{
+		"ControlName"	"CTFLabel"
+		"fieldName"		"cross"
+		"font"			"HudFontMediumSmall"
+		"fgcolor"		"TanLight"
+		"xpos"			"c-50"
+		"ypos"			"c-50"
+		"zpos"			"5"
+		"wide"			"100"
+		"tall"			"100"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"+"
+	}	
+	
+	crossShadow
+	{
+		"ControlName"	"CTFLabel"
+		"fieldName"		"crossShadow"
+		"font"			"HudFontMediumSmall"
+		"fgcolor"		"TransparentBlack"
+		"xpos"			"c-49"
+		"ypos"			"c-49"
+		"zpos"			"4"
+		"wide"			"99"
+		"tall"			"99"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"+"
+	}
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
