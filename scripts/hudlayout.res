@@ -151,7 +151,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"250"
+		"ypos"		"r190"
 		"wide"	 	"252"
 		"tall"	 	"50"
 		"priority"	"40"

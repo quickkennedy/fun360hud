@@ -4,22 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"TargetIDBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-1"
-		"wide"			"252"
-		"tall"	 		"50"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/score_panel_blue_bg"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/freezecam_black_bg"
-		"teambg_2"		"../hud/freezecam_red_bg"
-		"teambg_2_lodef"	"../hud/freezecam_red_bg_lodef"
-		"teambg_3"		"../hud/freezecam_blue_bg"
-		"teambg_3_lodef"	"../hud/freezecam_blue_bg_lodef"
+		"ypos"			"99999"
 	}
 	"TargetNameLabel"
 	{	
