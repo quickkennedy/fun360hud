@@ -16,46 +16,19 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LeftSideBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
-		"ypos"			"r96"	[$X360]
-		"zpos"			"1"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_bg_left"
-		"scaleImage"	"1"	
+		"xpos"			"99999"
 	}	
 	"RightSideBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RightSideBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
-		"ypos"			"r96"	[$X360]
-		"zpos"			"1"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_bg_right"
-		"scaleImage"	"1"	
+		"xpos"			"99999"
 	}	
 	"OutlineBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"OutlineBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
-		"ypos"			"r96"	[$X360]
-		"zpos"			"2"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_bg_outline"
-		"scaleImage"	"1"	
+		"xpos"			"99999"
 	}
 	"BlueScore"
 	{
@@ -200,17 +173,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayingToBG"
-		"xpos"			"c-70"
-		"ypos"			"r30"	[$WIN32]
-		"ypos"			"r51"	[$X360]
-		"zpos"			"3"
-		"wide"			"140"
-		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_bg_playingto"
-		"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
-		"scaleImage"	"1"	
+		"xpos"			"99999"
 	}		
 	"BlueFlag"
 	{
