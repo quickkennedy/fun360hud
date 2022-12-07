@@ -617,7 +617,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -627,7 +627,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -637,7 +637,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -646,7 +646,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -655,7 +655,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -679,7 +679,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -691,7 +691,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -713,7 +713,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -725,7 +725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -747,7 +747,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -760,7 +760,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -773,7 +773,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -796,7 +796,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -839,7 +839,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -852,7 +852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -912,7 +912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -922,7 +922,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -933,7 +933,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -942,7 +942,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -951,7 +951,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1105,7 +1105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1115,7 +1115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1126,7 +1126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1136,7 +1136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"TF2 Build"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -1150,7 +1150,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Professor"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -1162,7 +1162,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"TF2 Build"
 				"tall"			"14"
 				"tall_lodef"	"32"
 				"tall_hidef"	"32"
@@ -1187,7 +1187,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1200,7 +1200,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1212,7 +1212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1224,7 +1224,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1238,7 +1238,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1253,7 +1253,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1263,7 +1263,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1273,7 +1273,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1282,7 +1282,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1291,7 +1291,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1347,7 +1347,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1404,7 +1404,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1417,11 +1417,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Build"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"TextColor"	"Black"
+				"TextColor"	"TF2 Build"
 				"antialias" 	"1"
 			}
 		}
@@ -1476,7 +1476,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -1504,7 +1504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -1513,7 +1513,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -1563,7 +1563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1574,7 +1574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -1677,12 +1677,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 			}
@@ -1691,12 +1691,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 			}
@@ -1705,12 +1705,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 			}
@@ -1719,12 +1719,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "TF2 Build"
 					"offset" "0 0"
 				}
 			}
@@ -1809,10 +1809,7 @@ Scheme
 	{
 		"1"		"resource/tf.ttf"
 		"2"		"resource/tfd.ttf"
-		"3"		"resource/TF2.ttf"
-		"4"		"resource/TF2Secondary.ttf"
-		"5"		"resource/TF2Professor.ttf"
-		"6"		"resource/TF2Build.ttf"
+		"3"		"resource/TF2Build.ttf"
 	}
 
 }
