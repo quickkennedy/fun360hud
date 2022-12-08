@@ -46,7 +46,7 @@
 		"fieldName"		"CloakMeter"
 		"font"			"Default"
 		"xpos"			"c-40"
-		"ypos"			"23"
+		"ypos"			"c80"
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"6"				
