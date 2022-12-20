@@ -318,6 +318,32 @@ Scheme
 	// describes all the fonts
 	Fonts
 	{
+		// NEW ENTIRES
+		"xhairverdana"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"12"
+			}
+		}
+		"xhairarial"
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"12"
+			}
+		}
+		"xhairtahoma"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"12"
+			}
+		}
+		
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace

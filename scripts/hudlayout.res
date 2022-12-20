@@ -1,37 +1,141 @@
 "Resource/HudLayout.res"
 {
-	cross
+	"xhairverdana"
 	{
-		"ControlName"	"CTFLabel"
-		"fieldName"		"cross"
-		"font"			"HudFontMediumSmall"
-		"fgcolor"		"TanLight"
-		"xpos"			"c-50"
-		"ypos"			"c-50"
-		"zpos"			"5"
-		"wide"			"100"
-		"tall"			"100"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"center"	
-		"labelText"		"+"
-	}	
+		"ControlName"		"EditablePanel"
+		"fieldName" 		"xhairverdana"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"-15"
+		"ypos"			"0"
+		"wide"	 		"f0"
+		"tall"	 		"480"
+		
+		cross
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"cross"
+			"font"			"xhairverdana"
+			"fgcolor"		"TanLight"
+			"xpos"			"c-50"
+			"ypos"			"c-50"
+			"zpos"			"5"
+			"wide"			"100"
+			"tall"			"100"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}	
+		
+		crossShadow
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"crossShadow"
+			"font"			"xhairverdana"
+			"fgcolor"		"TransparentBlack"
+			"xpos"			"c-49"
+			"ypos"			"c-49"
+			"zpos"			"4"
+			"wide"			"99"
+			"tall"			"99"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}
+	}
 	
-	crossShadow
+	"xhairarial"
 	{
-		"ControlName"	"CTFLabel"
-		"fieldName"		"crossShadow"
-		"font"			"HudFontMediumSmall"
-		"fgcolor"		"TransparentBlack"
-		"xpos"			"c-49"
-		"ypos"			"c-49"
-		"zpos"			"4"
-		"wide"			"99"
-		"tall"			"99"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"center"	
-		"labelText"		"+"
+		"ControlName"		"EditablePanel"
+		"fieldName" 		"xhairarial"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"10"
+		"ypos"			"0"
+		"wide"	 		"f0"
+		"tall"	 		"480"
+		
+		cross
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"cross"
+			"font"			"xhairarial"
+			"fgcolor"		"TanLight"
+			"xpos"			"c-50"
+			"ypos"			"c-50"
+			"zpos"			"5"
+			"wide"			"100"
+			"tall"			"100"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}	
+		
+		crossShadow
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"crossShadow"
+			"font"			"xhairarial"
+			"fgcolor"		"TransparentBlack"
+			"xpos"			"c-49"
+			"ypos"			"c-49"
+			"zpos"			"4"
+			"wide"			"99"
+			"tall"			"99"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}
+	}
+	
+	"xhairtahoma"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName" 		"xhairtahoma"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"15"
+		"ypos"			"0"
+		"wide"	 		"f0"
+		"tall"	 		"480"
+		
+		cross
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"cross"
+			"font"			"xhairtahoma"
+			"fgcolor"		"TanLight"
+			"xpos"			"c-50"
+			"ypos"			"c-50"
+			"zpos"			"5"
+			"wide"			"100"
+			"tall"			"100"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}	
+		
+		crossShadow
+		{
+			"ControlName"	"CTFLabel"
+			"fieldName"		"crossShadow"
+			"font"			"xhairtahoma"
+			"fgcolor"		"TransparentBlack"
+			"xpos"			"c-49"
+			"ypos"			"c-49"
+			"zpos"			"4"
+			"wide"			"99"
+			"tall"			"99"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"	"center"	
+			"labelText"		"+"
+		}
 	}
 	
 	HudPlayerStatus
@@ -101,7 +205,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r100" //"r74"
-		"ypos"			"r30" //"r20"
+		"ypos"			"r40" //"r20"
 		"zpos"			"1"
 		"wide"			"54"
 		"tall"			"480"
