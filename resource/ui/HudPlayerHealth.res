@@ -6,10 +6,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"0"
-		"ypos"			"r120"
+		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"f0"
+		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
+		"xpos"			"99999" //"75"
 		"ypos"			"35"
 		"zpos"			"4"
 		"wide"			"51"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"73"
+		"xpos"			"99999" //"73"
 		"ypos"			"33"
 		"zpos"			"3"
 		"wide"			"55"
@@ -47,7 +47,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"
+		"xpos"			"99999" //"73"
 		"ypos"			"33"
 		"zpos"			"2"
 		"wide"			"55"
@@ -61,16 +61,33 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
-		"ypos"			"54" //53
+		"xpos"			"c-216"
+		"ypos"			"r106"
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"140"
+		"tall"			"42"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
-		"fgcolor"		"TanDark"
-	}								
+		"textAlignment"	"east"
+		"font"			"ScoreboardTeamScore" //"HudClassHealth"
+		"fgcolor"		"White"
+	}
+
+	"PlayerStatusHealthValueShadow"
+	{
+		"ControlName"	"CTFLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"c-215"
+		"ypos"			"r105"
+		"zpos"			"5"
+		"wide"			"140"
+		"tall"			"42"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"east"
+		"font"			"ScoreboardTeamScore" //"HudClassHealth"
+		"fgcolor"		"Black"
+	}	
 }

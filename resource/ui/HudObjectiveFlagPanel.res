@@ -36,13 +36,9 @@
 		"fieldName"		"BlueScore"
 		"xpos"			"c-130"
 		"ypos"			"r47"
-		"ypos_lodef"	"r88"
-		"ypos_hidef"	"r93"
 		"zpos"			"8"
 		"wide"			"50"
 		"tall"			"35"
-		"tall_hidef"	"100"
-		"tall_lodef"	"75"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"	
@@ -58,13 +54,9 @@
 		"fieldName"		"BlueScoreShadow"
 		"xpos"			"c-128"
 		"ypos"			"r46"
-		"ypos_lodef"	"r87"
-		"ypos_hidef"	"r92"
 		"zpos"			"7"
 		"wide"			"50"
 		"tall"			"35"
-		"tall_hidef"	"100"
-		"tall_lodef"	"75"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"	
@@ -80,20 +72,14 @@
 		"fieldName"		"RedScore"
 		"xpos"			"c82"
 		"ypos"			"r47"
-		"ypos_lodef"	"r88"
-		"ypos_hidef"	"r93"
 		"zpos"			"8"
 		"wide"			"50"
 		"tall"			"35"
-		"tall_hidef"	"100"
-		"tall_lodef"	"75"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
-		"font_hidef"	"HudFontGiant"
-		"font_lodef"	"HudFontGiant"
 		"fgcolor"		"TanLight"		
 	}		
 	"RedScoreShadow"
@@ -114,8 +100,6 @@
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
-		"font_hidef"	"HudFontGiant"
-		"font_lodef"	"HudFontGiant"
 		"fgcolor"		"Black"		
 	}															
 	"OutlineImage"
@@ -123,8 +107,8 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"OutlineImage"
 		"xpos"			"c-50"
-		"ypos"			"r127"	[$WIN32]
-		"ypos"			"r148"	[$X360]
+		"ypos"			"r127"
+		"ypos"			"r148"
 		"zpos"			"9"
 		"wide"			"100"
 		"tall"			"50"
@@ -137,12 +121,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CarriedImage"
-		"xpos"			"c-50"
-		"ypos"			"r137"	[$WIN32]
-		"ypos"			"r158"	[$X360]
+		"xpos"			"c-25"
+		"ypos"			"r50"
 		"zpos"			"10"
-		"wide"			"100"
-		"tall"			"100"
+		"wide"			"50"
+		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
@@ -155,8 +138,7 @@
 		"ControlName"	"CTFLabel"
 		"fieldName"		"PlayingTo"
 		"xpos"			"c-60"
-		"ypos"			"r27"	[$WIN32]
-		"ypos"			"r48"	[$X360]
+		"ypos"			"r27"
 		"zpos"			"4"
 		"wide"			"120"
 		"tall"			"30"
@@ -180,8 +162,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
 		"xpos"			"c-135"
-		"ypos"			"r95"	[$WIN32]
-		"ypos"			"r116"	[$X360]
+		"ypos"			"r75"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -193,8 +174,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
 		"xpos"			"c-25"
-		"ypos"			"r95"	[$WIN32]
-		"ypos"			"r116"	[$X360]
+		"ypos"			"r75"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -205,12 +185,11 @@
 	{
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"CaptureFlag"
-		"xpos"			"c-40"
-		"ypos"			"r95"	[$WIN32]
-		"ypos"			"r116"	[$X360]
+		"xpos"			"c-30"
+		"ypos"			"r70"//"r95"
 		"zpos"			"5"
-		"wide"			"80"
-		"tall"			"80"
+		"wide"			"60"
+		"tall"			"60"
 		"visible"		"0"
 		"enabled"		"1"
 	}
@@ -219,8 +198,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SpecCarriedImage"
 		"xpos"			"c-50"
-		"ypos"			"r137"	[$WIN32]
-		"ypos"			"r158"	[$X360]
+		"ypos"			"r137"
 		"zpos"			"10"
 		"wide"			"100"
 		"tall"			"100"
