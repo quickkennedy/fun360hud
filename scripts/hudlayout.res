@@ -480,14 +480,16 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-250"
-		"ypos"		"276"	[$WIN32]
-		"ypos"		"236"	[$X360]
-		"wide"		"500"
-		"tall"		"136"	[$WIN32]
-		"tall"		"176"	[$X360]
+		"xpos"		"20"
+		"ypos"		"100"	[$WIN32]
+		"ypos"		"100"	[$X360]
+		"zpos"		"20"
+		"wide"		"175"
+		"tall"		"250"	[$WIN32]
+		"tall"		"250"	[$X360]
 
-		"BgAlpha"	"128"
+
+		"BgAlpha"	"195"
 
 		"GrowTime"		"0.25"
 		"ItemHiddenTime"	"0.2"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
