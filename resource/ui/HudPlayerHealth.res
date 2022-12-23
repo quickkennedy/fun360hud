@@ -62,7 +62,7 @@
 		"ControlName"	"CTFLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
-		"ypos"			"53"
+		"ypos"			"54" //53
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"18"
