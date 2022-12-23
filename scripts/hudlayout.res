@@ -1,58 +1,12 @@
 "Resource/HudLayout.res"
 {
-	"xhairverdana"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName" 		"xhairverdana"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"-15"
-		"ypos"			"0"
-		"wide"	 		"f0"
-		"tall"	 		"480"
-		
-		cross
-		{
-			"ControlName"	"CTFLabel"
-			"fieldName"		"cross"
-			"font"			"xhairverdana"
-			"fgcolor"		"TanLight"
-			"xpos"			"c-50"
-			"ypos"			"c-50"
-			"zpos"			"5"
-			"wide"			"100"
-			"tall"			"100"
-			"visible"		"1"
-			"enabled"		"1"
-			"textAlignment"	"center"	
-			"labelText"		"+"
-		}	
-		
-		crossShadow
-		{
-			"ControlName"	"CTFLabel"
-			"fieldName"		"crossShadow"
-			"font"			"xhairverdana"
-			"fgcolor"		"TransparentBlack"
-			"xpos"			"c-49"
-			"ypos"			"c-49"
-			"zpos"			"4"
-			"wide"			"99"
-			"tall"			"99"
-			"visible"		"1"
-			"enabled"		"1"
-			"textAlignment"	"center"	
-			"labelText"		"+"
-		}
-	}
-	
 	"xhairarial"
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName" 		"xhairarial"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"10"
+		"xpos"			"0"
 		"ypos"			"0"
 		"wide"	 		"f0"
 		"tall"	 		"480"
@@ -79,52 +33,6 @@
 			"ControlName"	"CTFLabel"
 			"fieldName"		"crossShadow"
 			"font"			"xhairarial"
-			"fgcolor"		"TransparentBlack"
-			"xpos"			"c-49"
-			"ypos"			"c-49"
-			"zpos"			"4"
-			"wide"			"99"
-			"tall"			"99"
-			"visible"		"1"
-			"enabled"		"1"
-			"textAlignment"	"center"	
-			"labelText"		"+"
-		}
-	}
-	
-	"xhairtahoma"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName" 		"xhairtahoma"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"15"
-		"ypos"			"0"
-		"wide"	 		"f0"
-		"tall"	 		"480"
-		
-		cross
-		{
-			"ControlName"	"CTFLabel"
-			"fieldName"		"cross"
-			"font"			"xhairtahoma"
-			"fgcolor"		"TanLight"
-			"xpos"			"c-50"
-			"ypos"			"c-50"
-			"zpos"			"5"
-			"wide"			"100"
-			"tall"			"100"
-			"visible"		"1"
-			"enabled"		"1"
-			"textAlignment"	"center"	
-			"labelText"		"+"
-		}	
-		
-		crossShadow
-		{
-			"ControlName"	"CTFLabel"
-			"fieldName"		"crossShadow"
-			"font"			"xhairtahoma"
 			"fgcolor"		"TransparentBlack"
 			"xpos"			"c-49"
 			"ypos"			"c-49"
