@@ -10,7 +10,7 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"ScoreboardTeamScore" //"HudFontGiantBold"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontBig"
 		"fgcolor"		"TanLight"
 		"xpos"			"c-70"
 		"ypos"			"r106"
@@ -27,8 +27,8 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"ScoreboardTeamScore" //"HudFontGiantBold"
-		"fgcolor"		"Black"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontBig"
+		"fgcolor"		"TransparentBlack"
 		"xpos"			"c-69"
 		"ypos"			"r105"
 		"zpos"			"5"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"ScoreboardTeamScore" //"HudFontMediumSmall"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontMediumSmall"
 		"fgcolor"		"TanLight"
 		"xpos"			"c76" //"c-70+146"
 		"ypos"			"r106"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"ScoreboardTeamScore" //"HudFontMediumSmall"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontMediumSmall"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"c77" //"c-70+146"
 		"ypos"			"r105"
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"ScoreboardTeamScore" //"HudFontGiantBold"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontBig"
 		"fgcolor"		"TanLight"
 		"xpos"			"c-70"
 		"ypos"			"r106"
@@ -93,8 +93,8 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"ScoreboardTeamScore" //"HudFontGiantBold"
-		"fgcolor"		"Black"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudFontBig"
+		"fgcolor"		"TransparentBlack"
 		"xpos"			"c-69"
 		"ypos"			"r105"
 		"zpos"			"5"

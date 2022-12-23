@@ -70,7 +70,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"
-		"font"			"ScoreboardTeamScore" //"HudClassHealth"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudClassHealth"
 		"fgcolor"		"White"
 	}
 
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"
-		"font"			"ScoreboardTeamScore" //"HudClassHealth"
-		"fgcolor"		"Black"
+		"font"			"HudFontBig" //"ScoreboardTeamScore" //"HudClassHealth"
+		"fgcolor"		"TransparentBlack"
 	}	
 }
